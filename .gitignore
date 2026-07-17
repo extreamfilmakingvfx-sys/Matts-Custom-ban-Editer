@@ -1,0 +1,18 @@
+# Default exclusions for Maven build
+target/
+.classpath
+.project
+.settings/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.DS_Store
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
