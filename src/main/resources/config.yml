@@ -8,4 +8,3 @@ messages:
   no-permission: "&cYou do not have permission to edit ban messages."
   player-not-found: "&cPlayer not found."
   ban-updated: "&aBan message updated for {player}."
-
