@@ -1,0 +1,19 @@
+# Matts Custom Ban Editer Configuration File
+
+# Default ban message
+default-message: "You have been banned from this server."
+
+# Ban message templates
+# Add custom ban message templates here
+templates:
+  permanent: "You have been permanently banned from this server."
+  temporary: "You have been temporarily banned from this server."
+  spam: "You were banned for spamming."
+  cheating: "You were banned for cheating."
+  toxic: "You were banned for toxic behavior."
+
+# Enable/disable the plugin features
+enabled: true
+
+# Debug mode
+debug: false
